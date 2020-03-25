@@ -1,0 +1,24 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jl224/noteTaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jl224/noteTaker/issues"
+  },
+  "homepage": "https://github.com/jl224/noteTaker#readme"
+}
